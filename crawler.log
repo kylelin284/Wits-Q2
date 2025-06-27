@@ -1,0 +1,773 @@
+2025-06-26 23:41:36,971 - INFO - 處理股票代碼: 2049
+2025-06-26 23:41:36,971 - INFO - 開始爬取股票代碼: 2049
+2025-06-26 23:41:36,971 - INFO - Download path initialized: /Users/jx/git/effect/彥廷爬蟲demo/pdfs
+2025-06-26 23:41:36,971 - INFO - ====== WebDriver manager ======
+2025-06-26 23:41:37,130 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-26 23:41:37,472 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-26 23:41:37,785 - INFO - There is no [mac64] chromedriver "137.0.7151.119" for browser google-chrome "137.0.7151" in cache
+2025-06-26 23:41:37,794 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-26 23:41:38,692 - INFO - WebDriver version 137.0.7151.119 selected
+2025-06-26 23:41:38,696 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/137.0.7151.119/mac-arm64/chromedriver-mac-arm64.zip
+2025-06-26 23:41:38,696 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/137.0.7151.119/mac-arm64/chromedriver-mac-arm64.zip
+2025-06-26 23:41:38,759 - INFO - Driver downloading response is 200
+2025-06-26 23:41:39,447 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-26 23:41:39,881 - INFO - Driver has been saved in cache [/Users/jx/.wdm/drivers/chromedriver/mac64/137.0.7151.119]
+2025-06-26 23:41:39,888 - ERROR - Error occurred while crawling company_id 2049: [Errno 8] Exec format error: '/Users/jx/.wdm/drivers/chromedriver/mac64/137.0.7151.119/chromedriver-mac-arm64/THIRD_PARTY_NOTICES.chromedriver'
+2025-06-26 23:41:39,889 - ERROR - 股票 2049 的PDF下載失敗
+2025-06-26 23:41:42,894 - INFO - 處理股票代碼: 2330
+2025-06-26 23:41:42,895 - INFO - 開始爬取股票代碼: 2330
+2025-06-26 23:41:42,896 - INFO - Download path initialized: /Users/jx/git/effect/彥廷爬蟲demo/pdfs
+2025-06-26 23:41:42,897 - INFO - ====== WebDriver manager ======
+2025-06-26 23:41:43,029 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-26 23:41:43,527 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-26 23:41:43,976 - INFO - Driver [/Users/jx/.wdm/drivers/chromedriver/mac64/137.0.7151.119/chromedriver-mac-arm64/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-06-26 23:41:43,980 - ERROR - Error occurred while crawling company_id 2330: [Errno 8] Exec format error: '/Users/jx/.wdm/drivers/chromedriver/mac64/137.0.7151.119/chromedriver-mac-arm64/THIRD_PARTY_NOTICES.chromedriver'
+2025-06-26 23:41:43,980 - ERROR - 股票 2330 的PDF下載失敗
+2025-06-26 23:42:45,789 - INFO - 處理股票代碼: 2049
+2025-06-26 23:42:45,789 - INFO - 開始爬取股票代碼: 2049
+2025-06-26 23:42:45,789 - INFO - Download path initialized: /Users/jx/git/effect/彥廷爬蟲demo/pdfs
+2025-06-26 23:42:45,789 - INFO - ====== WebDriver manager ======
+2025-06-26 23:42:45,898 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-26 23:42:46,220 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-26 23:42:46,638 - INFO - Driver [/Users/jx/.wdm/drivers/chromedriver/mac64/137.0.7151.119/chromedriver-mac-arm64/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-06-26 23:42:46,641 - ERROR - Error occurred while crawling company_id 2049: [Errno 8] Exec format error: '/Users/jx/.wdm/drivers/chromedriver/mac64/137.0.7151.119/chromedriver-mac-arm64/THIRD_PARTY_NOTICES.chromedriver'
+2025-06-26 23:42:46,645 - ERROR - 股票 2049 的PDF下載失敗
+2025-06-26 23:46:41,523 - INFO - 處理股票代碼: 2049
+2025-06-26 23:46:41,524 - INFO - 開始爬取股票代碼: 2049
+2025-06-26 23:46:41,524 - INFO - Download path initialized: /Users/jx/git/effect/彥廷爬蟲demo/pdfs
+2025-06-26 23:46:41,524 - INFO - ====== WebDriver manager ======
+2025-06-26 23:46:41,646 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-26 23:46:41,951 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-26 23:46:42,203 - INFO - Driver [/Users/jx/.wdm/drivers/chromedriver/mac64/137.0.7151.119/chromedriver-mac-arm64/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-06-26 23:46:42,203 - INFO - Fixed ChromeDriver path: /Users/jx/.wdm/drivers/chromedriver/mac64/137.0.7151.119/chromedriver-mac-arm64/chromedriver
+2025-06-26 23:46:42,203 - INFO - Set execute permissions: /Users/jx/.wdm/drivers/chromedriver/mac64/137.0.7151.119/chromedriver-mac-arm64/chromedriver
+2025-06-26 23:46:43,843 - INFO - Chrome driver initialized successfully
+2025-06-26 23:46:43,843 - INFO - Navigating to URL: https://mops.twse.com.tw/mops/#/web/t146sb05?companyId=2049
+2025-06-26 23:46:47,366 - INFO - Page loaded for company_id: 2049
+2025-06-26 23:46:47,393 - INFO - Print button found with selector: span[data-name='列印網頁']
+2025-06-26 23:46:47,393 - INFO - Clicking print button for company_id: 2049
+2025-06-26 23:47:15,806 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10277d160>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/fbcb1ac27d98c7808b53efd7f10a24ca
+2025-06-26 23:47:15,817 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10277d460>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/fbcb1ac27d98c7808b53efd7f10a24ca
+2025-06-26 23:47:15,821 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10277d610>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/fbcb1ac27d98c7808b53efd7f10a24ca
+2025-06-26 23:47:15,839 - INFO - Browser driver closed
+2025-06-26 23:48:34,367 - INFO - 開始測試股票代碼: 2049
+2025-06-26 23:48:34,367 - INFO - Download path initialized: /Users/jx/git/effect/彥廷爬蟲demo/test_pdfs
+2025-06-26 23:48:34,367 - INFO - ====== WebDriver manager ======
+2025-06-26 23:48:34,530 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-26 23:48:34,781 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-26 23:48:35,017 - INFO - Driver [/Users/jx/.wdm/drivers/chromedriver/mac64/137.0.7151.119/chromedriver-mac-arm64/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-06-26 23:48:35,018 - INFO - Fixed ChromeDriver path: /Users/jx/.wdm/drivers/chromedriver/mac64/137.0.7151.119/chromedriver-mac-arm64/chromedriver
+2025-06-26 23:48:35,018 - INFO - Set execute permissions: /Users/jx/.wdm/drivers/chromedriver/mac64/137.0.7151.119/chromedriver-mac-arm64/chromedriver
+2025-06-26 23:48:36,442 - INFO - Chrome driver initialized successfully
+2025-06-26 23:48:36,442 - INFO - Navigating to URL: https://mops.twse.com.tw/mops/#/web/t146sb05?companyId=2049
+2025-06-26 23:48:40,174 - INFO - Page loaded for company_id: 2049
+2025-06-26 23:48:40,196 - INFO - Print button found with selector: span[data-name='列印網頁']
+2025-06-26 23:48:40,196 - INFO - Generating PDF directly for company_id: 2049
+2025-06-26 23:48:40,439 - INFO - PDF saved successfully via CDP: /Users/jx/git/effect/彥廷爬蟲demo/test_pdfs/stock_2049_1750952920.pdf
+2025-06-26 23:48:40,535 - INFO - Browser driver closed
+2025-06-26 23:48:40,535 - INFO - ✅ 測試成功! 股票 2049 的PDF已下載
+2025-06-26 23:49:10,153 - INFO - 處理股票代碼: 2049
+2025-06-26 23:49:10,153 - INFO - 開始爬取股票代碼: 2049
+2025-06-26 23:49:10,154 - INFO - Download path initialized: /Users/jx/git/effect/彥廷爬蟲demo/pdfs
+2025-06-26 23:49:10,154 - INFO - ====== WebDriver manager ======
+2025-06-26 23:49:10,316 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-26 23:49:10,554 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-26 23:49:10,931 - INFO - Driver [/Users/jx/.wdm/drivers/chromedriver/mac64/137.0.7151.119/chromedriver-mac-arm64/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-06-26 23:49:10,932 - INFO - Fixed ChromeDriver path: /Users/jx/.wdm/drivers/chromedriver/mac64/137.0.7151.119/chromedriver-mac-arm64/chromedriver
+2025-06-26 23:49:10,932 - INFO - Set execute permissions: /Users/jx/.wdm/drivers/chromedriver/mac64/137.0.7151.119/chromedriver-mac-arm64/chromedriver
+2025-06-26 23:49:12,396 - INFO - Chrome driver initialized successfully
+2025-06-26 23:49:12,396 - INFO - Navigating to URL: https://mops.twse.com.tw/mops/#/web/t146sb05?companyId=2049
+2025-06-26 23:49:16,038 - INFO - Page loaded for company_id: 2049
+2025-06-26 23:49:16,066 - INFO - Print button found with selector: span[data-name='列印網頁']
+2025-06-26 23:49:16,066 - INFO - Generating PDF directly for company_id: 2049
+2025-06-26 23:49:16,310 - INFO - PDF saved successfully via CDP: /Users/jx/git/effect/彥廷爬蟲demo/pdfs/stock_2049_1750952956.pdf
+2025-06-26 23:49:16,419 - INFO - Browser driver closed
+2025-06-26 23:49:16,419 - INFO - 成功完成股票 2049 的PDF下載
+2025-06-26 23:49:19,425 - INFO - 處理股票代碼: 2330
+2025-06-26 23:49:19,425 - INFO - 開始爬取股票代碼: 2330
+2025-06-26 23:49:19,426 - INFO - Download path initialized: /Users/jx/git/effect/彥廷爬蟲demo/pdfs
+2025-06-26 23:49:19,426 - INFO - ====== WebDriver manager ======
+2025-06-26 23:49:19,597 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-26 23:49:20,019 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-26 23:49:20,297 - INFO - Driver [/Users/jx/.wdm/drivers/chromedriver/mac64/137.0.7151.119/chromedriver-mac-arm64/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-06-26 23:49:20,297 - INFO - Fixed ChromeDriver path: /Users/jx/.wdm/drivers/chromedriver/mac64/137.0.7151.119/chromedriver-mac-arm64/chromedriver
+2025-06-26 23:49:20,297 - INFO - Set execute permissions: /Users/jx/.wdm/drivers/chromedriver/mac64/137.0.7151.119/chromedriver-mac-arm64/chromedriver
+2025-06-26 23:49:21,666 - INFO - Chrome driver initialized successfully
+2025-06-26 23:49:21,668 - INFO - Navigating to URL: https://mops.twse.com.tw/mops/#/web/t146sb05?companyId=2330
+2025-06-26 23:49:25,123 - INFO - Page loaded for company_id: 2330
+2025-06-26 23:49:25,145 - INFO - Print button found with selector: span[data-name='列印網頁']
+2025-06-26 23:49:25,145 - INFO - Generating PDF directly for company_id: 2330
+2025-06-26 23:49:25,403 - INFO - PDF saved successfully via CDP: /Users/jx/git/effect/彥廷爬蟲demo/pdfs/stock_2330_1750952965.pdf
+2025-06-26 23:49:25,506 - INFO - Browser driver closed
+2025-06-26 23:49:25,507 - INFO - 成功完成股票 2330 的PDF下載
+2025-06-26 23:49:28,514 - INFO - 處理股票代碼: 2454
+2025-06-26 23:49:28,514 - INFO - 開始爬取股票代碼: 2454
+2025-06-26 23:49:28,515 - INFO - Download path initialized: /Users/jx/git/effect/彥廷爬蟲demo/pdfs
+2025-06-26 23:49:28,515 - INFO - ====== WebDriver manager ======
+2025-06-26 23:49:28,674 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-26 23:49:28,903 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-26 23:49:29,295 - INFO - Driver [/Users/jx/.wdm/drivers/chromedriver/mac64/137.0.7151.119/chromedriver-mac-arm64/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-06-26 23:49:29,296 - INFO - Fixed ChromeDriver path: /Users/jx/.wdm/drivers/chromedriver/mac64/137.0.7151.119/chromedriver-mac-arm64/chromedriver
+2025-06-26 23:49:29,296 - INFO - Set execute permissions: /Users/jx/.wdm/drivers/chromedriver/mac64/137.0.7151.119/chromedriver-mac-arm64/chromedriver
+2025-06-26 23:49:30,587 - INFO - Chrome driver initialized successfully
+2025-06-26 23:49:30,587 - INFO - Navigating to URL: https://mops.twse.com.tw/mops/#/web/t146sb05?companyId=2454
+2025-06-26 23:49:34,163 - INFO - Page loaded for company_id: 2454
+2025-06-26 23:49:34,184 - INFO - Print button found with selector: span[data-name='列印網頁']
+2025-06-26 23:49:34,184 - INFO - Generating PDF directly for company_id: 2454
+2025-06-26 23:49:34,437 - INFO - PDF saved successfully via CDP: /Users/jx/git/effect/彥廷爬蟲demo/pdfs/stock_2454_1750952974.pdf
+2025-06-26 23:49:34,514 - INFO - Browser driver closed
+2025-06-26 23:49:34,514 - INFO - 成功完成股票 2454 的PDF下載
+2025-06-26 23:49:37,520 - INFO - === 爬取結果摘要 Crawling Results Summary ===
+2025-06-26 23:49:37,521 - INFO - 股票 2049: 成功
+2025-06-26 23:49:37,521 - INFO - 股票 2330: 成功
+2025-06-26 23:49:37,521 - INFO - 股票 2454: 成功
+2025-06-26 23:51:35,429 - INFO - 處理股票代碼: 2049
+2025-06-26 23:51:35,430 - INFO - 開始爬取股票代碼: 2049
+2025-06-26 23:51:35,430 - INFO - Download path initialized: /Users/jx/git/effect/彥廷爬蟲demo/pdfs
+2025-06-26 23:51:35,430 - INFO - ====== WebDriver manager ======
+2025-06-26 23:51:35,578 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-26 23:51:35,863 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-26 23:51:36,087 - INFO - Driver [/Users/jx/.wdm/drivers/chromedriver/mac64/137.0.7151.119/chromedriver-mac-arm64/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-06-26 23:51:36,087 - INFO - Fixed ChromeDriver path: /Users/jx/.wdm/drivers/chromedriver/mac64/137.0.7151.119/chromedriver-mac-arm64/chromedriver
+2025-06-26 23:51:36,087 - INFO - Set execute permissions: /Users/jx/.wdm/drivers/chromedriver/mac64/137.0.7151.119/chromedriver-mac-arm64/chromedriver
+2025-06-26 23:51:37,524 - INFO - Chrome driver initialized successfully
+2025-06-26 23:51:37,524 - INFO - Navigating to URL: https://mops.twse.com.tw/mops/#/web/t146sb05?companyId=2049
+2025-06-26 23:51:41,105 - INFO - Page loaded for company_id: 2049
+2025-06-26 23:51:41,143 - INFO - Print button found with selector: span[data-name='列印網頁']
+2025-06-26 23:51:41,143 - INFO - Generating PDF directly for company_id: 2049
+2025-06-26 23:51:41,402 - INFO - PDF saved successfully via CDP: /Users/jx/git/effect/彥廷爬蟲demo/pdfs/stock_2049_1750953101.pdf
+2025-06-26 23:51:41,494 - INFO - Browser driver closed
+2025-06-26 23:51:41,495 - INFO - 成功完成股票 2049 的PDF下載
+2025-06-26 23:51:44,497 - INFO - 處理股票代碼: 2330
+2025-06-26 23:51:44,498 - INFO - 開始爬取股票代碼: 2330
+2025-06-26 23:51:44,501 - INFO - Download path initialized: /Users/jx/git/effect/彥廷爬蟲demo/pdfs
+2025-06-26 23:51:44,502 - INFO - ====== WebDriver manager ======
+2025-06-26 23:51:44,688 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-26 23:51:44,938 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-26 23:51:45,174 - INFO - Driver [/Users/jx/.wdm/drivers/chromedriver/mac64/137.0.7151.119/chromedriver-mac-arm64/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-06-26 23:51:45,174 - INFO - Fixed ChromeDriver path: /Users/jx/.wdm/drivers/chromedriver/mac64/137.0.7151.119/chromedriver-mac-arm64/chromedriver
+2025-06-26 23:51:45,174 - INFO - Set execute permissions: /Users/jx/.wdm/drivers/chromedriver/mac64/137.0.7151.119/chromedriver-mac-arm64/chromedriver
+2025-06-26 23:51:46,485 - INFO - Chrome driver initialized successfully
+2025-06-26 23:51:46,486 - INFO - Navigating to URL: https://mops.twse.com.tw/mops/#/web/t146sb05?companyId=2330
+2025-06-26 23:51:50,101 - INFO - Page loaded for company_id: 2330
+2025-06-26 23:51:50,132 - INFO - Print button found with selector: span[data-name='列印網頁']
+2025-06-26 23:51:50,132 - INFO - Generating PDF directly for company_id: 2330
+2025-06-26 23:51:50,389 - INFO - PDF saved successfully via CDP: /Users/jx/git/effect/彥廷爬蟲demo/pdfs/stock_2330_1750953110.pdf
+2025-06-26 23:51:50,491 - INFO - Browser driver closed
+2025-06-26 23:51:50,491 - INFO - 成功完成股票 2330 的PDF下載
+2025-06-26 23:51:53,497 - INFO - 處理股票代碼: 2454
+2025-06-26 23:51:53,498 - INFO - 開始爬取股票代碼: 2454
+2025-06-26 23:51:53,500 - INFO - Download path initialized: /Users/jx/git/effect/彥廷爬蟲demo/pdfs
+2025-06-26 23:51:53,501 - INFO - ====== WebDriver manager ======
+2025-06-26 23:51:53,686 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-26 23:51:53,959 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-26 23:51:54,307 - INFO - Driver [/Users/jx/.wdm/drivers/chromedriver/mac64/137.0.7151.119/chromedriver-mac-arm64/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-06-26 23:51:54,307 - INFO - Fixed ChromeDriver path: /Users/jx/.wdm/drivers/chromedriver/mac64/137.0.7151.119/chromedriver-mac-arm64/chromedriver
+2025-06-26 23:51:54,307 - INFO - Set execute permissions: /Users/jx/.wdm/drivers/chromedriver/mac64/137.0.7151.119/chromedriver-mac-arm64/chromedriver
+2025-06-26 23:51:55,526 - INFO - Chrome driver initialized successfully
+2025-06-26 23:51:55,527 - INFO - Navigating to URL: https://mops.twse.com.tw/mops/#/web/t146sb05?companyId=2454
+2025-06-26 23:51:59,085 - INFO - Page loaded for company_id: 2454
+2025-06-26 23:51:59,110 - INFO - Print button found with selector: span[data-name='列印網頁']
+2025-06-26 23:51:59,110 - INFO - Generating PDF directly for company_id: 2454
+2025-06-26 23:51:59,360 - INFO - PDF saved successfully via CDP: /Users/jx/git/effect/彥廷爬蟲demo/pdfs/stock_2454_1750953119.pdf
+2025-06-26 23:51:59,435 - INFO - Browser driver closed
+2025-06-26 23:51:59,435 - INFO - 成功完成股票 2454 的PDF下載
+2025-06-26 23:52:02,441 - INFO - === 爬取結果摘要 Crawling Results Summary ===
+2025-06-26 23:52:02,442 - INFO - 股票 2049: 成功
+2025-06-26 23:52:02,442 - INFO - 股票 2330: 成功
+2025-06-26 23:52:02,442 - INFO - 股票 2454: 成功
+2025-06-27 00:20:14,983 - INFO - 開始測試股票代碼: 2049
+2025-06-27 00:20:14,983 - INFO - Download path initialized: /Users/jx/git/effect/彥廷爬蟲demo/test_pdfs
+2025-06-27 00:20:14,983 - INFO - ====== WebDriver manager ======
+2025-06-27 00:20:15,168 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-27 00:20:15,393 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-27 00:20:15,777 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-27 00:20:16,626 - INFO - WebDriver version 137.0.7151.119 selected
+2025-06-27 00:20:16,631 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/137.0.7151.119/mac-arm64/chromedriver-mac-arm64.zip
+2025-06-27 00:20:16,631 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/137.0.7151.119/mac-arm64/chromedriver-mac-arm64.zip
+2025-06-27 00:20:16,693 - INFO - Driver downloading response is 200
+2025-06-27 00:20:17,382 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-27 00:20:17,832 - INFO - Driver has been saved in cache [/Users/jx/.wdm/drivers/chromedriver/mac64/137.0.7151.119]
+2025-06-27 00:20:17,833 - INFO - Fixed ChromeDriver path: /Users/jx/.wdm/drivers/chromedriver/mac64/137.0.7151.119/chromedriver-mac-arm64/chromedriver
+2025-06-27 00:20:17,833 - INFO - Set execute permissions: /Users/jx/.wdm/drivers/chromedriver/mac64/137.0.7151.119/chromedriver-mac-arm64/chromedriver
+2025-06-27 00:20:19,350 - INFO - Chrome driver initialized successfully
+2025-06-27 00:20:19,350 - INFO - Navigating to URL: https://mops.twse.com.tw/mops/#/web/t146sb05?companyId=2049
+2025-06-27 00:20:22,873 - INFO - Page loaded for company_id: 2049
+2025-06-27 00:20:22,874 - INFO - Processing section: 基本資料 for company_id: 2049
+2025-06-27 00:20:22,910 - INFO - Section button found with selector: button.basic_info
+2025-06-27 00:20:22,910 - INFO - Clicking section button: 基本資料
+2025-06-27 00:20:24,948 - INFO - Print button found with selector: span[data-name='列印網頁']
+2025-06-27 00:20:24,948 - INFO - Generating PDF for section: 基本資料
+2025-06-27 00:20:25,133 - INFO - PDF saved successfully: /Users/jx/git/effect/彥廷爬蟲demo/test_pdfs/stock_2049_basic_1750954824.pdf
+2025-06-27 00:20:25,133 - INFO - Successfully generated PDF for section: 基本資料
+2025-06-27 00:20:26,136 - INFO - Processing section: 營收資訊 for company_id: 2049
+2025-06-27 00:20:26,159 - INFO - Section button found with selector: button.revenue_information
+2025-06-27 00:20:26,159 - INFO - Clicking section button: 營收資訊
+2025-06-27 00:20:28,192 - INFO - Print button found with selector: span[data-name='列印網頁']
+2025-06-27 00:20:28,192 - INFO - Generating PDF for section: 營收資訊
+2025-06-27 00:20:28,382 - INFO - PDF saved successfully: /Users/jx/git/effect/彥廷爬蟲demo/test_pdfs/stock_2049_revenue_1750954828.pdf
+2025-06-27 00:20:28,382 - INFO - Successfully generated PDF for section: 營收資訊
+2025-06-27 00:20:29,387 - INFO - Processing section: 財報資訊 for company_id: 2049
+2025-06-27 00:20:29,401 - INFO - Section button found with selector: button.financial_report_information
+2025-06-27 00:20:29,401 - INFO - Clicking section button: 財報資訊
+2025-06-27 00:20:31,429 - INFO - Print button found with selector: span[data-name='列印網頁']
+2025-06-27 00:20:31,429 - INFO - Generating PDF for section: 財報資訊
+2025-06-27 00:20:31,620 - INFO - PDF saved successfully: /Users/jx/git/effect/彥廷爬蟲demo/test_pdfs/stock_2049_financial_1750954831.pdf
+2025-06-27 00:20:31,620 - INFO - Successfully generated PDF for section: 財報資訊
+2025-06-27 00:20:32,623 - INFO - Successfully generated 3 out of 3 PDFs for company_id: 2049
+2025-06-27 00:20:32,733 - INFO - Browser driver closed
+2025-06-27 00:20:32,733 - INFO - ✅ 測試成功! 股票 2049 的PDF已下載
+2025-06-27 00:33:20,529 - INFO - 處理股票代碼: 2049
+2025-06-27 00:33:20,529 - INFO - 開始爬取股票代碼: 2049
+2025-06-27 00:33:20,530 - INFO - Download path initialized: D:\Python\封存\pdfs
+2025-06-27 00:33:20,530 - INFO - ====== WebDriver manager ======
+2025-06-27 00:33:21,347 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-27 00:33:21,702 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-27 00:33:22,167 - INFO - Driver [C:\Users\user\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-06-27 00:33:22,167 - INFO - Fixed ChromeDriver path: C:\Users\user\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32\chromedriver.exe
+2025-06-27 00:33:22,168 - INFO - Set execute permissions: C:\Users\user\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32\chromedriver.exe
+2025-06-27 00:33:23,243 - INFO - Chrome driver initialized successfully
+2025-06-27 00:33:23,243 - INFO - Navigating to URL: https://mops.twse.com.tw/mops/#/web/t146sb05?companyId=2049
+2025-06-27 00:33:26,772 - INFO - Page loaded for company_id: 2049
+2025-06-27 00:33:26,772 - INFO - Processing section: 基本資料 for company_id: 2049
+2025-06-27 00:33:26,810 - INFO - Section button found with selector: button.basic_info
+2025-06-27 00:33:26,810 - INFO - Clicking section button: 基本資料
+2025-06-27 00:33:28,846 - INFO - Print button found with selector: span[data-name='列印網頁']
+2025-06-27 00:33:28,847 - INFO - Generating PDF for section: 基本資料
+2025-06-27 00:33:29,360 - INFO - PDF saved successfully: D:\Python\封存\pdfs\stock_2049_basic_1750955608.pdf
+2025-06-27 00:33:29,361 - INFO - Successfully generated PDF for section: 基本資料
+2025-06-27 00:33:30,376 - INFO - Processing section: 營收資訊 for company_id: 2049
+2025-06-27 00:33:30,404 - INFO - Section button found with selector: button.revenue_information
+2025-06-27 00:33:30,404 - INFO - Clicking section button: 營收資訊
+2025-06-27 00:33:32,447 - INFO - Print button found with selector: span[data-name='列印網頁']
+2025-06-27 00:33:32,447 - INFO - Generating PDF for section: 營收資訊
+2025-06-27 00:33:32,846 - INFO - PDF saved successfully: D:\Python\封存\pdfs\stock_2049_revenue_1750955612.pdf
+2025-06-27 00:33:32,847 - INFO - Successfully generated PDF for section: 營收資訊
+2025-06-27 00:33:33,851 - INFO - Processing section: 財報資訊 for company_id: 2049
+2025-06-27 00:33:33,891 - INFO - Section button found with selector: button.financial_report_information
+2025-06-27 00:33:33,891 - INFO - Clicking section button: 財報資訊
+2025-06-27 00:33:35,950 - INFO - Print button found with selector: span[data-name='列印網頁']
+2025-06-27 00:33:35,950 - INFO - Generating PDF for section: 財報資訊
+2025-06-27 00:33:36,462 - INFO - PDF saved successfully: D:\Python\封存\pdfs\stock_2049_financial_1750955615.pdf
+2025-06-27 00:33:36,463 - INFO - Successfully generated PDF for section: 財報資訊
+2025-06-27 00:33:37,478 - INFO - Successfully generated 3 out of 3 PDFs for company_id: 2049
+2025-06-27 00:33:39,606 - INFO - Browser driver closed
+2025-06-27 00:33:39,606 - INFO - 成功完成股票 2049 的PDF下載
+2025-06-27 00:33:46,693 - INFO - 處理股票代碼: 2330
+2025-06-27 00:33:46,693 - INFO - 開始爬取股票代碼: 2330
+2025-06-27 00:33:46,695 - INFO - Download path initialized: D:\Python\封存\pdfs
+2025-06-27 00:33:46,695 - INFO - ====== WebDriver manager ======
+2025-06-27 00:33:47,505 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-27 00:33:47,699 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-27 00:33:47,893 - INFO - Driver [C:\Users\user\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-06-27 00:33:47,894 - INFO - Fixed ChromeDriver path: C:\Users\user\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32\chromedriver.exe
+2025-06-27 00:33:47,896 - INFO - Set execute permissions: C:\Users\user\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32\chromedriver.exe
+2025-06-27 00:33:48,976 - INFO - Chrome driver initialized successfully
+2025-06-27 00:33:48,976 - INFO - Navigating to URL: https://mops.twse.com.tw/mops/#/web/t146sb05?companyId=2330
+2025-06-27 00:33:52,844 - INFO - Page loaded for company_id: 2330
+2025-06-27 00:33:52,844 - INFO - Processing section: 基本資料 for company_id: 2330
+2025-06-27 00:33:52,880 - INFO - Section button found with selector: button.basic_info
+2025-06-27 00:33:52,881 - INFO - Clicking section button: 基本資料
+2025-06-27 00:33:54,924 - INFO - Print button found with selector: span[data-name='列印網頁']
+2025-06-27 00:33:54,925 - INFO - Generating PDF for section: 基本資料
+2025-06-27 00:33:55,444 - INFO - PDF saved successfully: D:\Python\封存\pdfs\stock_2330_basic_1750955634.pdf
+2025-06-27 00:33:55,445 - INFO - Successfully generated PDF for section: 基本資料
+2025-06-27 00:33:56,452 - INFO - Processing section: 營收資訊 for company_id: 2330
+2025-06-27 00:33:56,503 - INFO - Section button found with selector: button.revenue_information
+2025-06-27 00:33:56,503 - INFO - Clicking section button: 營收資訊
+2025-06-27 00:33:58,540 - INFO - Print button found with selector: span[data-name='列印網頁']
+2025-06-27 00:33:58,541 - INFO - Generating PDF for section: 營收資訊
+2025-06-27 00:33:58,955 - INFO - PDF saved successfully: D:\Python\封存\pdfs\stock_2330_revenue_1750955638.pdf
+2025-06-27 00:33:58,955 - INFO - Successfully generated PDF for section: 營收資訊
+2025-06-27 00:33:59,967 - INFO - Processing section: 財報資訊 for company_id: 2330
+2025-06-27 00:33:59,992 - INFO - Section button found with selector: button.financial_report_information
+2025-06-27 00:33:59,992 - INFO - Clicking section button: 財報資訊
+2025-06-27 00:34:02,040 - INFO - Print button found with selector: span[data-name='列印網頁']
+2025-06-27 00:34:02,040 - INFO - Generating PDF for section: 財報資訊
+2025-06-27 00:34:02,554 - INFO - PDF saved successfully: D:\Python\封存\pdfs\stock_2330_financial_1750955642.pdf
+2025-06-27 00:34:02,555 - INFO - Successfully generated PDF for section: 財報資訊
+2025-06-27 00:34:03,571 - INFO - Successfully generated 3 out of 3 PDFs for company_id: 2330
+2025-06-27 00:34:05,705 - INFO - Browser driver closed
+2025-06-27 00:34:05,707 - INFO - 成功完成股票 2330 的PDF下載
+2025-06-27 00:34:12,811 - INFO - 處理股票代碼: 2454
+2025-06-27 00:34:12,811 - INFO - 開始爬取股票代碼: 2454
+2025-06-27 00:34:12,812 - INFO - Download path initialized: D:\Python\封存\pdfs
+2025-06-27 00:34:12,813 - INFO - ====== WebDriver manager ======
+2025-06-27 00:34:13,625 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-27 00:34:13,805 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-27 00:34:14,020 - INFO - Driver [C:\Users\user\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-06-27 00:34:14,021 - INFO - Fixed ChromeDriver path: C:\Users\user\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32\chromedriver.exe
+2025-06-27 00:34:14,022 - INFO - Set execute permissions: C:\Users\user\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32\chromedriver.exe
+2025-06-27 00:34:15,169 - INFO - Chrome driver initialized successfully
+2025-06-27 00:34:15,170 - INFO - Navigating to URL: https://mops.twse.com.tw/mops/#/web/t146sb05?companyId=2454
+2025-06-27 00:34:18,672 - INFO - Page loaded for company_id: 2454
+2025-06-27 00:34:18,672 - INFO - Processing section: 基本資料 for company_id: 2454
+2025-06-27 00:34:18,708 - INFO - Section button found with selector: button.basic_info
+2025-06-27 00:34:18,708 - INFO - Clicking section button: 基本資料
+2025-06-27 00:34:20,772 - INFO - Print button found with selector: span[data-name='列印網頁']
+2025-06-27 00:34:20,772 - INFO - Generating PDF for section: 基本資料
+2025-06-27 00:34:21,328 - INFO - PDF saved successfully: D:\Python\封存\pdfs\stock_2454_basic_1750955660.pdf
+2025-06-27 00:34:21,329 - INFO - Successfully generated PDF for section: 基本資料
+2025-06-27 00:34:22,341 - INFO - Processing section: 營收資訊 for company_id: 2454
+2025-06-27 00:34:22,374 - INFO - Section button found with selector: button.revenue_information
+2025-06-27 00:34:22,375 - INFO - Clicking section button: 營收資訊
+2025-06-27 00:34:24,444 - INFO - Print button found with selector: span[data-name='列印網頁']
+2025-06-27 00:34:24,445 - INFO - Generating PDF for section: 營收資訊
+2025-06-27 00:34:24,849 - INFO - PDF saved successfully: D:\Python\封存\pdfs\stock_2454_revenue_1750955664.pdf
+2025-06-27 00:34:24,849 - INFO - Successfully generated PDF for section: 營收資訊
+2025-06-27 00:34:25,853 - INFO - Processing section: 財報資訊 for company_id: 2454
+2025-06-27 00:34:25,897 - INFO - Section button found with selector: button.financial_report_information
+2025-06-27 00:34:25,897 - INFO - Clicking section button: 財報資訊
+2025-06-27 00:34:27,936 - INFO - Print button found with selector: span[data-name='列印網頁']
+2025-06-27 00:34:27,936 - INFO - Generating PDF for section: 財報資訊
+2025-06-27 00:34:28,503 - INFO - PDF saved successfully: D:\Python\封存\pdfs\stock_2454_financial_1750955667.pdf
+2025-06-27 00:34:28,503 - INFO - Successfully generated PDF for section: 財報資訊
+2025-06-27 00:34:29,517 - INFO - Successfully generated 3 out of 3 PDFs for company_id: 2454
+2025-06-27 00:34:31,665 - INFO - Browser driver closed
+2025-06-27 00:34:31,665 - INFO - 成功完成股票 2454 的PDF下載
+2025-06-27 00:34:38,750 - INFO - === 爬取結果摘要 Crawling Results Summary ===
+2025-06-27 00:34:38,750 - INFO - 股票 2049: 成功
+2025-06-27 00:34:38,752 - INFO - 股票 2330: 成功
+2025-06-27 00:34:38,752 - INFO - 股票 2454: 成功
+2025-06-27 00:40:12,871 - INFO - 處理股票代碼: 2409
+2025-06-27 00:40:12,872 - INFO - 開始爬取股票代碼: 2409
+2025-06-27 00:40:12,872 - INFO - Download path initialized: D:\Python\緯創軟體作業\pdfs
+2025-06-27 00:40:12,872 - INFO - ====== WebDriver manager ======
+2025-06-27 00:40:13,682 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-27 00:40:13,871 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-27 00:40:14,082 - INFO - Driver [C:\Users\user\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-06-27 00:40:14,082 - INFO - Fixed ChromeDriver path: C:\Users\user\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32\chromedriver.exe
+2025-06-27 00:40:14,083 - INFO - Set execute permissions: C:\Users\user\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32\chromedriver.exe
+2025-06-27 00:40:15,187 - INFO - Chrome driver initialized successfully
+2025-06-27 00:40:15,188 - INFO - Navigating to URL: https://mops.twse.com.tw/mops/#/web/t146sb05?companyId=2409
+2025-06-27 00:40:18,628 - INFO - Page loaded for company_id: 2409
+2025-06-27 00:40:18,628 - INFO - Processing section: 基本資料 for company_id: 2409
+2025-06-27 00:40:18,672 - INFO - Section button found with selector: button.basic_info
+2025-06-27 00:40:18,673 - INFO - Clicking section button: 基本資料
+2025-06-27 00:40:20,713 - INFO - Print button found with selector: span[data-name='列印網頁']
+2025-06-27 00:40:20,713 - INFO - Generating PDF for section: 基本資料
+2025-06-27 00:40:21,186 - INFO - PDF saved successfully: D:\Python\緯創軟體作業\pdfs\stock_2409_basic_1750956020.pdf
+2025-06-27 00:40:21,186 - INFO - Successfully generated PDF for section: 基本資料
+2025-06-27 00:40:22,194 - INFO - Processing section: 營收資訊 for company_id: 2409
+2025-06-27 00:40:22,230 - INFO - Section button found with selector: button.revenue_information
+2025-06-27 00:40:22,230 - INFO - Clicking section button: 營收資訊
+2025-06-27 00:40:24,267 - INFO - Print button found with selector: span[data-name='列印網頁']
+2025-06-27 00:40:24,267 - INFO - Generating PDF for section: 營收資訊
+2025-06-27 00:40:24,646 - INFO - PDF saved successfully: D:\Python\緯創軟體作業\pdfs\stock_2409_revenue_1750956024.pdf
+2025-06-27 00:40:24,646 - INFO - Successfully generated PDF for section: 營收資訊
+2025-06-27 00:40:25,648 - INFO - Processing section: 財報資訊 for company_id: 2409
+2025-06-27 00:40:25,703 - INFO - Section button found with selector: button.financial_report_information
+2025-06-27 00:40:25,703 - INFO - Clicking section button: 財報資訊
+2025-06-27 00:40:27,754 - INFO - Print button found with selector: span[data-name='列印網頁']
+2025-06-27 00:40:27,754 - INFO - Generating PDF for section: 財報資訊
+2025-06-27 00:40:28,233 - INFO - PDF saved successfully: D:\Python\緯創軟體作業\pdfs\stock_2409_financial_1750956027.pdf
+2025-06-27 00:40:28,233 - INFO - Successfully generated PDF for section: 財報資訊
+2025-06-27 00:40:29,246 - INFO - Successfully generated 3 out of 3 PDFs for company_id: 2409
+2025-06-27 00:40:31,373 - INFO - Browser driver closed
+2025-06-27 00:40:31,373 - INFO - 成功完成股票 2409 的PDF下載
+2025-06-27 00:40:38,463 - INFO - 處理股票代碼: 2330
+2025-06-27 00:40:38,463 - INFO - 開始爬取股票代碼: 2330
+2025-06-27 00:40:38,466 - INFO - Download path initialized: D:\Python\緯創軟體作業\pdfs
+2025-06-27 00:40:38,468 - INFO - ====== WebDriver manager ======
+2025-06-27 00:40:39,265 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-27 00:40:39,461 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-27 00:40:39,639 - INFO - Driver [C:\Users\user\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-06-27 00:40:39,640 - INFO - Fixed ChromeDriver path: C:\Users\user\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32\chromedriver.exe
+2025-06-27 00:40:39,641 - INFO - Set execute permissions: C:\Users\user\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32\chromedriver.exe
+2025-06-27 00:40:40,732 - INFO - Chrome driver initialized successfully
+2025-06-27 00:40:40,733 - INFO - Navigating to URL: https://mops.twse.com.tw/mops/#/web/t146sb05?companyId=2330
+2025-06-27 00:40:44,547 - INFO - Page loaded for company_id: 2330
+2025-06-27 00:40:44,547 - INFO - Processing section: 基本資料 for company_id: 2330
+2025-06-27 00:40:44,594 - INFO - Section button found with selector: button.basic_info
+2025-06-27 00:40:44,594 - INFO - Clicking section button: 基本資料
+2025-06-27 00:40:46,634 - INFO - Print button found with selector: span[data-name='列印網頁']
+2025-06-27 00:40:46,634 - INFO - Generating PDF for section: 基本資料
+2025-06-27 00:40:47,222 - INFO - PDF saved successfully: D:\Python\緯創軟體作業\pdfs\stock_2330_basic_1750956046.pdf
+2025-06-27 00:40:47,223 - INFO - Successfully generated PDF for section: 基本資料
+2025-06-27 00:40:48,225 - INFO - Processing section: 營收資訊 for company_id: 2330
+2025-06-27 00:40:48,281 - INFO - Section button found with selector: button.revenue_information
+2025-06-27 00:40:48,281 - INFO - Clicking section button: 營收資訊
+2025-06-27 00:40:50,317 - INFO - Print button found with selector: span[data-name='列印網頁']
+2025-06-27 00:40:50,317 - INFO - Generating PDF for section: 營收資訊
+2025-06-27 00:40:50,737 - INFO - PDF saved successfully: D:\Python\緯創軟體作業\pdfs\stock_2330_revenue_1750956050.pdf
+2025-06-27 00:40:50,737 - INFO - Successfully generated PDF for section: 營收資訊
+2025-06-27 00:40:51,739 - INFO - Processing section: 財報資訊 for company_id: 2330
+2025-06-27 00:40:51,767 - INFO - Section button found with selector: button.financial_report_information
+2025-06-27 00:40:51,767 - INFO - Clicking section button: 財報資訊
+2025-06-27 00:40:53,803 - INFO - Print button found with selector: span[data-name='列印網頁']
+2025-06-27 00:40:53,803 - INFO - Generating PDF for section: 財報資訊
+2025-06-27 00:40:54,275 - INFO - PDF saved successfully: D:\Python\緯創軟體作業\pdfs\stock_2330_financial_1750956053.pdf
+2025-06-27 00:40:54,275 - INFO - Successfully generated PDF for section: 財報資訊
+2025-06-27 00:40:55,281 - INFO - Successfully generated 3 out of 3 PDFs for company_id: 2330
+2025-06-27 00:40:57,418 - INFO - Browser driver closed
+2025-06-27 00:40:57,418 - INFO - 成功完成股票 2330 的PDF下載
+2025-06-27 00:41:04,517 - INFO - 處理股票代碼: 0001
+2025-06-27 00:41:04,518 - INFO - 開始爬取股票代碼: 0001
+2025-06-27 00:41:04,522 - INFO - Download path initialized: D:\Python\緯創軟體作業\pdfs
+2025-06-27 00:41:04,523 - INFO - ====== WebDriver manager ======
+2025-06-27 00:41:05,313 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-27 00:41:05,516 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-27 00:41:05,696 - INFO - Driver [C:\Users\user\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-06-27 00:41:05,697 - INFO - Fixed ChromeDriver path: C:\Users\user\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32\chromedriver.exe
+2025-06-27 00:41:05,698 - INFO - Set execute permissions: C:\Users\user\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32\chromedriver.exe
+2025-06-27 00:41:06,773 - INFO - Chrome driver initialized successfully
+2025-06-27 00:41:06,773 - INFO - Navigating to URL: https://mops.twse.com.tw/mops/#/web/t146sb05?companyId=0001
+2025-06-27 00:41:10,364 - INFO - Page loaded for company_id: 0001
+2025-06-27 00:41:10,365 - INFO - Processing section: 基本資料 for company_id: 0001
+2025-06-27 00:42:18,905 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, '遠端主機已強制關閉一個現存的連線。', None, 10054, None)': /session/a3d16c2e7aaae0514001250f9fb4a2c3
+2025-06-27 00:45:55,496 - INFO - 處理股票代碼: 2409
+2025-06-27 00:45:55,496 - INFO - 開始爬取股票代碼: 2409
+2025-06-27 00:45:55,497 - INFO - Download path initialized: D:\Python\緯創軟體作業\pdfs
+2025-06-27 00:45:55,497 - INFO - ====== WebDriver manager ======
+2025-06-27 00:45:56,312 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-27 00:45:56,532 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-27 00:45:56,726 - INFO - Driver [C:\Users\user\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-06-27 00:45:56,727 - INFO - Fixed ChromeDriver path: C:\Users\user\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32\chromedriver.exe
+2025-06-27 00:45:56,728 - INFO - Set execute permissions: C:\Users\user\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32\chromedriver.exe
+2025-06-27 00:45:57,790 - INFO - Chrome driver initialized successfully
+2025-06-27 00:45:57,791 - INFO - Navigating to URL: https://mops.twse.com.tw/mops/#/web/t146sb05?companyId=2409
+2025-06-27 00:46:01,369 - INFO - Page loaded for company_id: 2409
+2025-06-27 00:46:01,369 - INFO - Processing section: 基本資料 for company_id: 2409
+2025-06-27 00:46:01,417 - INFO - Section button found with selector: button.basic_info
+2025-06-27 00:46:01,417 - INFO - Clicking section button: 基本資料
+2025-06-27 00:46:03,475 - INFO - Print button found with selector: span[data-name='列印網頁']
+2025-06-27 00:46:03,475 - INFO - Generating PDF for section: 基本資料
+2025-06-27 00:46:03,945 - INFO - PDF saved successfully: D:\Python\緯創軟體作業\pdfs\stock_2409_basic_1750956363.pdf
+2025-06-27 00:46:03,945 - INFO - Successfully generated PDF for section: 基本資料
+2025-06-27 00:46:04,954 - INFO - Processing section: 營收資訊 for company_id: 2409
+2025-06-27 00:46:04,998 - INFO - Section button found with selector: button.revenue_information
+2025-06-27 00:46:04,998 - INFO - Clicking section button: 營收資訊
+2025-06-27 00:46:07,035 - INFO - Print button found with selector: span[data-name='列印網頁']
+2025-06-27 00:46:07,035 - INFO - Generating PDF for section: 營收資訊
+2025-06-27 00:46:07,470 - INFO - PDF saved successfully: D:\Python\緯創軟體作業\pdfs\stock_2409_revenue_1750956367.pdf
+2025-06-27 00:46:07,470 - INFO - Successfully generated PDF for section: 營收資訊
+2025-06-27 00:46:08,474 - INFO - Processing section: 財報資訊 for company_id: 2409
+2025-06-27 00:46:08,501 - INFO - Section button found with selector: button.financial_report_information
+2025-06-27 00:46:08,501 - INFO - Clicking section button: 財報資訊
+2025-06-27 00:46:10,541 - INFO - Print button found with selector: span[data-name='列印網頁']
+2025-06-27 00:46:10,542 - INFO - Generating PDF for section: 財報資訊
+2025-06-27 00:46:11,021 - INFO - PDF saved successfully: D:\Python\緯創軟體作業\pdfs\stock_2409_financial_1750956370.pdf
+2025-06-27 00:46:11,021 - INFO - Successfully generated PDF for section: 財報資訊
+2025-06-27 00:46:12,032 - INFO - Successfully generated 3 out of 3 PDFs for company_id: 2409
+2025-06-27 00:46:14,152 - INFO - Browser driver closed
+2025-06-27 00:46:14,152 - INFO - 成功完成股票 2409 的PDF下載
+2025-06-27 00:46:21,239 - INFO - 處理股票代碼: 2330
+2025-06-27 00:46:21,239 - INFO - 開始爬取股票代碼: 2330
+2025-06-27 00:46:21,239 - INFO - Download path initialized: D:\Python\緯創軟體作業\pdfs
+2025-06-27 00:46:21,239 - INFO - ====== WebDriver manager ======
+2025-06-27 00:46:22,029 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-27 00:46:22,204 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-27 00:46:22,666 - INFO - Driver [C:\Users\user\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-06-27 00:46:22,667 - INFO - Fixed ChromeDriver path: C:\Users\user\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32\chromedriver.exe
+2025-06-27 00:46:22,667 - INFO - Set execute permissions: C:\Users\user\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32\chromedriver.exe
+2025-06-27 00:46:23,795 - INFO - Chrome driver initialized successfully
+2025-06-27 00:46:23,796 - INFO - Navigating to URL: https://mops.twse.com.tw/mops/#/web/t146sb05?companyId=2330
+2025-06-27 00:46:27,542 - INFO - Page loaded for company_id: 2330
+2025-06-27 00:46:27,542 - INFO - Processing section: 基本資料 for company_id: 2330
+2025-06-27 00:46:27,587 - INFO - Section button found with selector: button.basic_info
+2025-06-27 00:46:27,588 - INFO - Clicking section button: 基本資料
+2025-06-27 00:46:29,638 - INFO - Print button found with selector: span[data-name='列印網頁']
+2025-06-27 00:46:29,638 - INFO - Generating PDF for section: 基本資料
+2025-06-27 00:46:30,114 - INFO - PDF saved successfully: D:\Python\緯創軟體作業\pdfs\stock_2330_basic_1750956389.pdf
+2025-06-27 00:46:30,114 - INFO - Successfully generated PDF for section: 基本資料
+2025-06-27 00:46:31,118 - INFO - Processing section: 營收資訊 for company_id: 2330
+2025-06-27 00:46:31,147 - INFO - Section button found with selector: button.revenue_information
+2025-06-27 00:46:31,147 - INFO - Clicking section button: 營收資訊
+2025-06-27 00:46:33,211 - INFO - Print button found with selector: span[data-name='列印網頁']
+2025-06-27 00:46:33,212 - INFO - Generating PDF for section: 營收資訊
+2025-06-27 00:46:33,602 - INFO - PDF saved successfully: D:\Python\緯創軟體作業\pdfs\stock_2330_revenue_1750956393.pdf
+2025-06-27 00:46:33,603 - INFO - Successfully generated PDF for section: 營收資訊
+2025-06-27 00:46:34,611 - INFO - Processing section: 財報資訊 for company_id: 2330
+2025-06-27 00:46:34,636 - INFO - Section button found with selector: button.financial_report_information
+2025-06-27 00:46:34,637 - INFO - Clicking section button: 財報資訊
+2025-06-27 00:46:36,693 - INFO - Print button found with selector: span[data-name='列印網頁']
+2025-06-27 00:46:36,694 - INFO - Generating PDF for section: 財報資訊
+2025-06-27 00:46:37,203 - INFO - PDF saved successfully: D:\Python\緯創軟體作業\pdfs\stock_2330_financial_1750956396.pdf
+2025-06-27 00:46:37,203 - INFO - Successfully generated PDF for section: 財報資訊
+2025-06-27 00:46:38,218 - INFO - Successfully generated 3 out of 3 PDFs for company_id: 2330
+2025-06-27 00:46:40,350 - INFO - Browser driver closed
+2025-06-27 00:46:40,350 - INFO - 成功完成股票 2330 的PDF下載
+2025-06-27 00:46:47,463 - INFO - 處理股票代碼: 0001
+2025-06-27 00:46:47,463 - INFO - 開始爬取股票代碼: 0001
+2025-06-27 00:46:47,466 - INFO - Download path initialized: D:\Python\緯創軟體作業\pdfs
+2025-06-27 00:46:47,467 - INFO - ====== WebDriver manager ======
+2025-06-27 00:46:48,271 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-27 00:46:48,462 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-27 00:46:48,650 - INFO - Driver [C:\Users\user\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-06-27 00:46:48,651 - INFO - Fixed ChromeDriver path: C:\Users\user\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32\chromedriver.exe
+2025-06-27 00:46:48,653 - INFO - Set execute permissions: C:\Users\user\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32\chromedriver.exe
+2025-06-27 00:46:49,781 - INFO - Chrome driver initialized successfully
+2025-06-27 00:46:49,781 - INFO - Navigating to URL: https://mops.twse.com.tw/mops/#/web/t146sb05?companyId=0001
+2025-06-27 00:46:53,599 - INFO - Page loaded for company_id: 0001
+2025-06-27 00:46:53,599 - INFO - Processing section: 基本資料 for company_id: 0001
+2025-06-27 00:48:24,265 - ERROR - Section button not found: 基本資料
+2025-06-27 00:48:24,265 - INFO - Processing section: 營收資訊 for company_id: 0001
+2025-06-27 00:49:54,578 - ERROR - Section button not found: 營收資訊
+2025-06-27 00:49:54,579 - INFO - Processing section: 財報資訊 for company_id: 0001
+2025-06-27 00:51:25,324 - ERROR - Section button not found: 財報資訊
+2025-06-27 00:51:25,324 - ERROR - Failed to generate any PDFs for company_id: 0001
+2025-06-27 00:51:27,440 - INFO - Browser driver closed
+2025-06-27 00:51:27,440 - ERROR - 股票 0001 的PDF下載失敗
+2025-06-27 00:51:34,543 - INFO - 處理股票代碼: 2454
+2025-06-27 00:51:34,543 - INFO - 開始爬取股票代碼: 2454
+2025-06-27 00:51:34,544 - INFO - Download path initialized: D:\Python\緯創軟體作業\pdfs
+2025-06-27 00:51:34,544 - INFO - ====== WebDriver manager ======
+2025-06-27 00:51:35,352 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-27 00:51:35,543 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-27 00:51:35,713 - INFO - Driver [C:\Users\user\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-06-27 00:51:35,715 - INFO - Fixed ChromeDriver path: C:\Users\user\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32\chromedriver.exe
+2025-06-27 00:51:35,721 - INFO - Set execute permissions: C:\Users\user\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32\chromedriver.exe
+2025-06-27 00:51:36,821 - INFO - Chrome driver initialized successfully
+2025-06-27 00:51:36,821 - INFO - Navigating to URL: https://mops.twse.com.tw/mops/#/web/t146sb05?companyId=2454
+2025-06-27 00:51:40,573 - INFO - Page loaded for company_id: 2454
+2025-06-27 00:51:40,573 - INFO - Processing section: 基本資料 for company_id: 2454
+2025-06-27 00:51:40,614 - INFO - Section button found with selector: button.basic_info
+2025-06-27 00:51:40,614 - INFO - Clicking section button: 基本資料
+2025-06-27 00:51:42,665 - INFO - Print button found with selector: span[data-name='列印網頁']
+2025-06-27 00:51:42,665 - INFO - Generating PDF for section: 基本資料
+2025-06-27 00:51:43,134 - INFO - PDF saved successfully: D:\Python\緯創軟體作業\pdfs\stock_2454_basic_1750956702.pdf
+2025-06-27 00:51:43,135 - INFO - Successfully generated PDF for section: 基本資料
+2025-06-27 00:51:44,147 - INFO - Processing section: 營收資訊 for company_id: 2454
+2025-06-27 00:51:44,184 - INFO - Section button found with selector: button.revenue_information
+2025-06-27 00:51:44,184 - INFO - Clicking section button: 營收資訊
+2025-06-27 00:51:46,236 - INFO - Print button found with selector: span[data-name='列印網頁']
+2025-06-27 00:51:46,236 - INFO - Generating PDF for section: 營收資訊
+2025-06-27 00:51:46,638 - INFO - PDF saved successfully: D:\Python\緯創軟體作業\pdfs\stock_2454_revenue_1750956706.pdf
+2025-06-27 00:51:46,639 - INFO - Successfully generated PDF for section: 營收資訊
+2025-06-27 00:51:47,649 - INFO - Processing section: 財報資訊 for company_id: 2454
+2025-06-27 00:51:47,676 - INFO - Section button found with selector: button.financial_report_information
+2025-06-27 00:51:47,677 - INFO - Clicking section button: 財報資訊
+2025-06-27 00:51:49,721 - INFO - Print button found with selector: span[data-name='列印網頁']
+2025-06-27 00:51:49,721 - INFO - Generating PDF for section: 財報資訊
+2025-06-27 00:51:50,171 - INFO - PDF saved successfully: D:\Python\緯創軟體作業\pdfs\stock_2454_financial_1750956709.pdf
+2025-06-27 00:51:50,171 - INFO - Successfully generated PDF for section: 財報資訊
+2025-06-27 00:51:51,176 - INFO - Successfully generated 3 out of 3 PDFs for company_id: 2454
+2025-06-27 00:51:53,299 - INFO - Browser driver closed
+2025-06-27 00:51:53,300 - INFO - 成功完成股票 2454 的PDF下載
+2025-06-27 00:52:00,400 - INFO - 處理股票代碼: 2317
+2025-06-27 00:52:00,401 - INFO - 開始爬取股票代碼: 2317
+2025-06-27 00:52:00,401 - INFO - Download path initialized: D:\Python\緯創軟體作業\pdfs
+2025-06-27 00:52:00,402 - INFO - ====== WebDriver manager ======
+2025-06-27 00:52:01,185 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-27 00:52:01,390 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-27 00:52:01,584 - INFO - Driver [C:\Users\user\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-06-27 00:52:01,585 - INFO - Fixed ChromeDriver path: C:\Users\user\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32\chromedriver.exe
+2025-06-27 00:52:01,587 - INFO - Set execute permissions: C:\Users\user\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32\chromedriver.exe
+2025-06-27 00:52:02,694 - INFO - Chrome driver initialized successfully
+2025-06-27 00:52:02,695 - INFO - Navigating to URL: https://mops.twse.com.tw/mops/#/web/t146sb05?companyId=2317
+2025-06-27 00:52:06,211 - INFO - Page loaded for company_id: 2317
+2025-06-27 00:52:06,211 - INFO - Processing section: 基本資料 for company_id: 2317
+2025-06-27 00:52:06,268 - INFO - Section button found with selector: button.basic_info
+2025-06-27 00:52:06,268 - INFO - Clicking section button: 基本資料
+2025-06-27 00:52:08,317 - INFO - Print button found with selector: span[data-name='列印網頁']
+2025-06-27 00:52:08,317 - INFO - Generating PDF for section: 基本資料
+2025-06-27 00:52:08,846 - INFO - PDF saved successfully: D:\Python\緯創軟體作業\pdfs\stock_2317_basic_1750956728.pdf
+2025-06-27 00:52:08,847 - INFO - Successfully generated PDF for section: 基本資料
+2025-06-27 00:52:09,855 - INFO - Processing section: 營收資訊 for company_id: 2317
+2025-06-27 00:52:09,884 - INFO - Section button found with selector: button.revenue_information
+2025-06-27 00:52:09,884 - INFO - Clicking section button: 營收資訊
+2025-06-27 00:52:11,928 - INFO - Print button found with selector: span[data-name='列印網頁']
+2025-06-27 00:52:11,928 - INFO - Generating PDF for section: 營收資訊
+2025-06-27 00:52:12,309 - INFO - PDF saved successfully: D:\Python\緯創軟體作業\pdfs\stock_2317_revenue_1750956731.pdf
+2025-06-27 00:52:12,310 - INFO - Successfully generated PDF for section: 營收資訊
+2025-06-27 00:52:13,324 - INFO - Processing section: 財報資訊 for company_id: 2317
+2025-06-27 00:52:13,361 - INFO - Section button found with selector: button.financial_report_information
+2025-06-27 00:52:13,361 - INFO - Clicking section button: 財報資訊
+2025-06-27 00:52:15,409 - INFO - Print button found with selector: span[data-name='列印網頁']
+2025-06-27 00:52:15,409 - INFO - Generating PDF for section: 財報資訊
+2025-06-27 00:52:15,879 - INFO - PDF saved successfully: D:\Python\緯創軟體作業\pdfs\stock_2317_financial_1750956735.pdf
+2025-06-27 00:52:15,880 - INFO - Successfully generated PDF for section: 財報資訊
+2025-06-27 00:52:16,882 - INFO - Successfully generated 3 out of 3 PDFs for company_id: 2317
+2025-06-27 00:52:19,001 - INFO - Browser driver closed
+2025-06-27 00:52:19,001 - INFO - 成功完成股票 2317 的PDF下載
+2025-06-27 00:52:26,092 - INFO - 處理股票代碼: 2308
+2025-06-27 00:52:26,092 - INFO - 開始爬取股票代碼: 2308
+2025-06-27 00:52:26,094 - INFO - Download path initialized: D:\Python\緯創軟體作業\pdfs
+2025-06-27 00:52:26,094 - INFO - ====== WebDriver manager ======
+2025-06-27 00:52:26,877 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-27 00:52:27,081 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-27 00:52:27,390 - INFO - Driver [C:\Users\user\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-06-27 00:52:27,391 - INFO - Fixed ChromeDriver path: C:\Users\user\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32\chromedriver.exe
+2025-06-27 00:52:27,392 - INFO - Set execute permissions: C:\Users\user\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32\chromedriver.exe
+2025-06-27 00:52:28,468 - INFO - Chrome driver initialized successfully
+2025-06-27 00:52:28,469 - INFO - Navigating to URL: https://mops.twse.com.tw/mops/#/web/t146sb05?companyId=2308
+2025-06-27 00:52:32,364 - INFO - Page loaded for company_id: 2308
+2025-06-27 00:52:32,364 - INFO - Processing section: 基本資料 for company_id: 2308
+2025-06-27 00:52:32,402 - INFO - Section button found with selector: button.basic_info
+2025-06-27 00:52:32,402 - INFO - Clicking section button: 基本資料
+2025-06-27 00:52:34,453 - INFO - Print button found with selector: span[data-name='列印網頁']
+2025-06-27 00:52:34,453 - INFO - Generating PDF for section: 基本資料
+2025-06-27 00:52:34,938 - INFO - PDF saved successfully: D:\Python\緯創軟體作業\pdfs\stock_2308_basic_1750956754.pdf
+2025-06-27 00:52:34,938 - INFO - Successfully generated PDF for section: 基本資料
+2025-06-27 00:52:35,948 - INFO - Processing section: 營收資訊 for company_id: 2308
+2025-06-27 00:52:35,975 - INFO - Section button found with selector: button.revenue_information
+2025-06-27 00:52:35,975 - INFO - Clicking section button: 營收資訊
+2025-06-27 00:52:38,013 - INFO - Print button found with selector: span[data-name='列印網頁']
+2025-06-27 00:52:38,013 - INFO - Generating PDF for section: 營收資訊
+2025-06-27 00:52:38,444 - INFO - PDF saved successfully: D:\Python\緯創軟體作業\pdfs\stock_2308_revenue_1750956758.pdf
+2025-06-27 00:52:38,444 - INFO - Successfully generated PDF for section: 營收資訊
+2025-06-27 00:52:39,447 - INFO - Processing section: 財報資訊 for company_id: 2308
+2025-06-27 00:52:39,475 - INFO - Section button found with selector: button.financial_report_information
+2025-06-27 00:52:39,475 - INFO - Clicking section button: 財報資訊
+2025-06-27 00:52:41,521 - INFO - Print button found with selector: span[data-name='列印網頁']
+2025-06-27 00:52:41,521 - INFO - Generating PDF for section: 財報資訊
+2025-06-27 00:52:41,984 - INFO - PDF saved successfully: D:\Python\緯創軟體作業\pdfs\stock_2308_financial_1750956761.pdf
+2025-06-27 00:52:41,985 - INFO - Successfully generated PDF for section: 財報資訊
+2025-06-27 00:52:42,990 - INFO - Successfully generated 3 out of 3 PDFs for company_id: 2308
+2025-06-27 00:52:45,141 - INFO - Browser driver closed
+2025-06-27 00:52:45,141 - INFO - 成功完成股票 2308 的PDF下載
+2025-06-27 00:52:52,238 - INFO - 處理股票代碼: 2382
+2025-06-27 00:52:52,238 - INFO - 開始爬取股票代碼: 2382
+2025-06-27 00:52:52,240 - INFO - Download path initialized: D:\Python\緯創軟體作業\pdfs
+2025-06-27 00:52:52,240 - INFO - ====== WebDriver manager ======
+2025-06-27 00:52:53,024 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-27 00:52:53,378 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-27 00:52:53,556 - INFO - Driver [C:\Users\user\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-06-27 00:52:53,556 - INFO - Fixed ChromeDriver path: C:\Users\user\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32\chromedriver.exe
+2025-06-27 00:52:53,557 - INFO - Set execute permissions: C:\Users\user\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32\chromedriver.exe
+2025-06-27 00:52:54,626 - INFO - Chrome driver initialized successfully
+2025-06-27 00:52:54,626 - INFO - Navigating to URL: https://mops.twse.com.tw/mops/#/web/t146sb05?companyId=2382
+2025-06-27 00:52:58,215 - INFO - Page loaded for company_id: 2382
+2025-06-27 00:52:58,215 - INFO - Processing section: 基本資料 for company_id: 2382
+2025-06-27 00:52:58,267 - INFO - Section button found with selector: button.basic_info
+2025-06-27 00:52:58,267 - INFO - Clicking section button: 基本資料
+2025-06-27 00:53:00,309 - INFO - Print button found with selector: span[data-name='列印網頁']
+2025-06-27 00:53:00,309 - INFO - Generating PDF for section: 基本資料
+2025-06-27 00:53:00,734 - INFO - PDF saved successfully: D:\Python\緯創軟體作業\pdfs\stock_2382_basic_1750956780.pdf
+2025-06-27 00:53:00,734 - INFO - Successfully generated PDF for section: 基本資料
+2025-06-27 00:53:01,743 - INFO - Processing section: 營收資訊 for company_id: 2382
+2025-06-27 00:53:01,771 - INFO - Section button found with selector: button.revenue_information
+2025-06-27 00:53:01,771 - INFO - Clicking section button: 營收資訊
+2025-06-27 00:53:03,805 - INFO - Print button found with selector: span[data-name='列印網頁']
+2025-06-27 00:53:03,805 - INFO - Generating PDF for section: 營收資訊
+2025-06-27 00:53:04,192 - INFO - PDF saved successfully: D:\Python\緯創軟體作業\pdfs\stock_2382_revenue_1750956783.pdf
+2025-06-27 00:53:04,193 - INFO - Successfully generated PDF for section: 營收資訊
+2025-06-27 00:53:05,200 - INFO - Processing section: 財報資訊 for company_id: 2382
+2025-06-27 00:53:05,236 - INFO - Section button found with selector: button.financial_report_information
+2025-06-27 00:53:05,236 - INFO - Clicking section button: 財報資訊
+2025-06-27 00:53:07,276 - INFO - Print button found with selector: span[data-name='列印網頁']
+2025-06-27 00:53:07,277 - INFO - Generating PDF for section: 財報資訊
+2025-06-27 00:53:07,797 - INFO - PDF saved successfully: D:\Python\緯創軟體作業\pdfs\stock_2382_financial_1750956787.pdf
+2025-06-27 00:53:07,798 - INFO - Successfully generated PDF for section: 財報資訊
+2025-06-27 00:53:08,809 - INFO - Successfully generated 3 out of 3 PDFs for company_id: 2382
+2025-06-27 00:53:10,931 - INFO - Browser driver closed
+2025-06-27 00:53:10,931 - INFO - 成功完成股票 2382 的PDF下載
+2025-06-27 00:53:18,030 - INFO - 處理股票代碼: 3034
+2025-06-27 00:53:18,030 - INFO - 開始爬取股票代碼: 3034
+2025-06-27 00:53:18,032 - INFO - Download path initialized: D:\Python\緯創軟體作業\pdfs
+2025-06-27 00:53:18,033 - INFO - ====== WebDriver manager ======
+2025-06-27 00:53:18,837 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-27 00:53:19,084 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-27 00:53:19,346 - INFO - Driver [C:\Users\user\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-06-27 00:53:19,347 - INFO - Fixed ChromeDriver path: C:\Users\user\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32\chromedriver.exe
+2025-06-27 00:53:19,349 - INFO - Set execute permissions: C:\Users\user\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32\chromedriver.exe
+2025-06-27 00:53:20,417 - INFO - Chrome driver initialized successfully
+2025-06-27 00:53:20,417 - INFO - Navigating to URL: https://mops.twse.com.tw/mops/#/web/t146sb05?companyId=3034
+2025-06-27 00:53:23,865 - INFO - Page loaded for company_id: 3034
+2025-06-27 00:53:23,865 - INFO - Processing section: 基本資料 for company_id: 3034
+2025-06-27 00:53:23,903 - INFO - Section button found with selector: button.basic_info
+2025-06-27 00:53:23,904 - INFO - Clicking section button: 基本資料
+2025-06-27 00:53:25,941 - INFO - Print button found with selector: span[data-name='列印網頁']
+2025-06-27 00:53:25,941 - INFO - Generating PDF for section: 基本資料
+2025-06-27 00:53:26,444 - INFO - PDF saved successfully: D:\Python\緯創軟體作業\pdfs\stock_3034_basic_1750956805.pdf
+2025-06-27 00:53:26,445 - INFO - Successfully generated PDF for section: 基本資料
+2025-06-27 00:53:27,461 - INFO - Processing section: 營收資訊 for company_id: 3034
+2025-06-27 00:53:27,487 - INFO - Section button found with selector: button.revenue_information
+2025-06-27 00:53:27,487 - INFO - Clicking section button: 營收資訊
+2025-06-27 00:53:29,539 - INFO - Print button found with selector: span[data-name='列印網頁']
+2025-06-27 00:53:29,539 - INFO - Generating PDF for section: 營收資訊
+2025-06-27 00:53:29,914 - INFO - PDF saved successfully: D:\Python\緯創軟體作業\pdfs\stock_3034_revenue_1750956809.pdf
+2025-06-27 00:53:29,915 - INFO - Successfully generated PDF for section: 營收資訊
+2025-06-27 00:53:30,920 - INFO - Processing section: 財報資訊 for company_id: 3034
+2025-06-27 00:53:30,948 - INFO - Section button found with selector: button.financial_report_information
+2025-06-27 00:53:30,948 - INFO - Clicking section button: 財報資訊
+2025-06-27 00:53:32,994 - INFO - Print button found with selector: span[data-name='列印網頁']
+2025-06-27 00:53:32,994 - INFO - Generating PDF for section: 財報資訊
+2025-06-27 00:53:33,443 - INFO - PDF saved successfully: D:\Python\緯創軟體作業\pdfs\stock_3034_financial_1750956812.pdf
+2025-06-27 00:53:33,443 - INFO - Successfully generated PDF for section: 財報資訊
+2025-06-27 00:53:34,450 - INFO - Successfully generated 3 out of 3 PDFs for company_id: 3034
+2025-06-27 00:53:36,595 - INFO - Browser driver closed
+2025-06-27 00:53:36,595 - INFO - 成功完成股票 3034 的PDF下載
+2025-06-27 00:53:43,710 - INFO - 處理股票代碼: 2379
+2025-06-27 00:53:43,710 - INFO - 開始爬取股票代碼: 2379
+2025-06-27 00:53:43,712 - INFO - Download path initialized: D:\Python\緯創軟體作業\pdfs
+2025-06-27 00:53:43,712 - INFO - ====== WebDriver manager ======
+2025-06-27 00:53:44,621 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-27 00:53:44,838 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-27 00:53:45,018 - INFO - Driver [C:\Users\user\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-06-27 00:53:45,020 - INFO - Fixed ChromeDriver path: C:\Users\user\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32\chromedriver.exe
+2025-06-27 00:53:45,023 - INFO - Set execute permissions: C:\Users\user\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32\chromedriver.exe
+2025-06-27 00:53:46,106 - INFO - Chrome driver initialized successfully
+2025-06-27 00:53:46,106 - INFO - Navigating to URL: https://mops.twse.com.tw/mops/#/web/t146sb05?companyId=2379
+2025-06-27 00:53:49,931 - INFO - Page loaded for company_id: 2379
+2025-06-27 00:53:49,931 - INFO - Processing section: 基本資料 for company_id: 2379
+2025-06-27 00:53:49,979 - INFO - Section button found with selector: button.basic_info
+2025-06-27 00:53:49,979 - INFO - Clicking section button: 基本資料
+2025-06-27 00:53:52,026 - INFO - Print button found with selector: span[data-name='列印網頁']
+2025-06-27 00:53:52,026 - INFO - Generating PDF for section: 基本資料
+2025-06-27 00:53:52,551 - INFO - PDF saved successfully: D:\Python\緯創軟體作業\pdfs\stock_2379_basic_1750956832.pdf
+2025-06-27 00:53:52,551 - INFO - Successfully generated PDF for section: 基本資料
+2025-06-27 00:53:53,563 - INFO - Processing section: 營收資訊 for company_id: 2379
+2025-06-27 00:53:53,594 - INFO - Section button found with selector: button.revenue_information
+2025-06-27 00:53:53,594 - INFO - Clicking section button: 營收資訊
+2025-06-27 00:53:55,641 - INFO - Print button found with selector: span[data-name='列印網頁']
+2025-06-27 00:53:55,642 - INFO - Generating PDF for section: 營收資訊
+2025-06-27 00:53:56,041 - INFO - PDF saved successfully: D:\Python\緯創軟體作業\pdfs\stock_2379_revenue_1750956835.pdf
+2025-06-27 00:53:56,041 - INFO - Successfully generated PDF for section: 營收資訊
+2025-06-27 00:53:57,048 - INFO - Processing section: 財報資訊 for company_id: 2379
+2025-06-27 00:53:57,076 - INFO - Section button found with selector: button.financial_report_information
+2025-06-27 00:53:57,076 - INFO - Clicking section button: 財報資訊
+2025-06-27 00:53:59,117 - INFO - Print button found with selector: span[data-name='列印網頁']
+2025-06-27 00:53:59,117 - INFO - Generating PDF for section: 財報資訊
+2025-06-27 00:53:59,597 - INFO - PDF saved successfully: D:\Python\緯創軟體作業\pdfs\stock_2379_financial_1750956839.pdf
+2025-06-27 00:53:59,598 - INFO - Successfully generated PDF for section: 財報資訊
+2025-06-27 00:54:00,608 - INFO - Successfully generated 3 out of 3 PDFs for company_id: 2379
+2025-06-27 00:54:02,721 - INFO - Browser driver closed
+2025-06-27 00:54:02,721 - INFO - 成功完成股票 2379 的PDF下載
+2025-06-27 00:54:09,827 - INFO - 處理股票代碼: 2303
+2025-06-27 00:54:09,827 - INFO - 開始爬取股票代碼: 2303
+2025-06-27 00:54:09,831 - INFO - Download path initialized: D:\Python\緯創軟體作業\pdfs
+2025-06-27 00:54:09,833 - INFO - ====== WebDriver manager ======
+2025-06-27 00:54:10,626 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-27 00:54:10,916 - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-27 00:54:11,100 - INFO - Driver [C:\Users\user\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-06-27 00:54:11,101 - INFO - Fixed ChromeDriver path: C:\Users\user\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32\chromedriver.exe
+2025-06-27 00:54:11,102 - INFO - Set execute permissions: C:\Users\user\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32\chromedriver.exe
+2025-06-27 00:54:12,188 - INFO - Chrome driver initialized successfully
+2025-06-27 00:54:12,188 - INFO - Navigating to URL: https://mops.twse.com.tw/mops/#/web/t146sb05?companyId=2303
+2025-06-27 00:54:15,619 - INFO - Page loaded for company_id: 2303
+2025-06-27 00:54:15,619 - INFO - Processing section: 基本資料 for company_id: 2303
+2025-06-27 00:54:15,658 - INFO - Section button found with selector: button.basic_info
+2025-06-27 00:54:15,658 - INFO - Clicking section button: 基本資料
+2025-06-27 00:54:17,707 - INFO - Print button found with selector: span[data-name='列印網頁']
+2025-06-27 00:54:17,707 - INFO - Generating PDF for section: 基本資料
+2025-06-27 00:54:18,209 - INFO - PDF saved successfully: D:\Python\緯創軟體作業\pdfs\stock_2303_basic_1750956857.pdf
+2025-06-27 00:54:18,209 - INFO - Successfully generated PDF for section: 基本資料
+2025-06-27 00:54:19,219 - INFO - Processing section: 營收資訊 for company_id: 2303
+2025-06-27 00:54:19,248 - INFO - Section button found with selector: button.revenue_information
+2025-06-27 00:54:19,248 - INFO - Clicking section button: 營收資訊
+2025-06-27 00:54:21,289 - INFO - Print button found with selector: span[data-name='列印網頁']
+2025-06-27 00:54:21,289 - INFO - Generating PDF for section: 營收資訊
+2025-06-27 00:54:21,670 - INFO - PDF saved successfully: D:\Python\緯創軟體作業\pdfs\stock_2303_revenue_1750956861.pdf
+2025-06-27 00:54:21,670 - INFO - Successfully generated PDF for section: 營收資訊
+2025-06-27 00:54:22,684 - INFO - Processing section: 財報資訊 for company_id: 2303
+2025-06-27 00:54:22,713 - INFO - Section button found with selector: button.financial_report_information
+2025-06-27 00:54:22,713 - INFO - Clicking section button: 財報資訊
+2025-06-27 00:54:24,779 - INFO - Print button found with selector: span[data-name='列印網頁']
+2025-06-27 00:54:24,779 - INFO - Generating PDF for section: 財報資訊
+2025-06-27 00:54:25,229 - INFO - PDF saved successfully: D:\Python\緯創軟體作業\pdfs\stock_2303_financial_1750956864.pdf
+2025-06-27 00:54:25,230 - INFO - Successfully generated PDF for section: 財報資訊
+2025-06-27 00:54:26,234 - INFO - Successfully generated 3 out of 3 PDFs for company_id: 2303
+2025-06-27 00:54:28,354 - INFO - Browser driver closed
+2025-06-27 00:54:28,354 - INFO - 成功完成股票 2303 的PDF下載
+2025-06-27 00:54:35,465 - INFO - === 爬取結果摘要 Crawling Results Summary ===
+2025-06-27 00:54:35,465 - INFO - 股票 2409: 成功
+2025-06-27 00:54:35,466 - INFO - 股票 2330: 成功
+2025-06-27 00:54:35,466 - INFO - 股票 0001: 失敗
+2025-06-27 00:54:35,466 - INFO - 股票 2454: 成功
+2025-06-27 00:54:35,466 - INFO - 股票 2317: 成功
+2025-06-27 00:54:35,467 - INFO - 股票 2308: 成功
+2025-06-27 00:54:35,467 - INFO - 股票 2382: 成功
+2025-06-27 00:54:35,467 - INFO - 股票 3034: 成功
+2025-06-27 00:54:35,468 - INFO - 股票 2379: 成功
+2025-06-27 00:54:35,468 - INFO - 股票 2303: 成功
